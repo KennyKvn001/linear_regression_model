@@ -11,7 +11,8 @@ Summatives/
 └── lib/ # Flutter app source code
 
 ## API Endpoint
-API endpoint: https://my-fastapi-wxqz.onrender.com/docs
+API endpoint: https://my-fastapi-wxqz.onrender.com/predict
+Use this swagger docs on how to use it: https://my-fastapi-wxqz.onrender.com/docs
 
 # Demo Video
 video link: https://youtu.be/VKxlmmV5FMI
